@@ -8,5 +8,3 @@ function cyberNumber(a){
     return "punk"
   }
 }
-
-cyberNumber(9)
